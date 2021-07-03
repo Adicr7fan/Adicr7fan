@@ -1,4 +1,4 @@
-# <a href="https://ibb.co/7SS9ShF"><img src="https://i.ibb.co/2FFbFJB/Simple-Technology-Linked-In-Banner.png" alt="Simple-Technology-Linked-In-Banner" border="0"></a>
+# <a href="https://ibb.co/41JLjdK"><img src="https://i.ibb.co/Y0bStZP/Adithya-Header-Github.png" alt="Adithya-Header-Github" border="0"></a>
                                         
  ###    Hi there 👋, I'm Adithya Shankaran
 
