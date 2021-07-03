@@ -1,4 +1,4 @@
-![Header](https://media.discordapp.net/attachments/757882448490135582/860628511231180846/Simple_Technology_LinkedIn_Banner.png"Header")(https://some-url.dev/)
+# <a href="https://ibb.co/7SS9ShF"><img src="https://i.ibb.co/2FFbFJB/Simple-Technology-Linked-In-Banner.png" alt="Simple-Technology-Linked-In-Banner" border="0"></a>
                                         
  ###    Hi there 👋, I'm Adithya Shankaran
 
