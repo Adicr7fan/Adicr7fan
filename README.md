@@ -1,6 +1,6 @@
 # <a href="https://twitter.com/AdithyaShan11"><img src="https://i.ibb.co/Y0bStZP/Adithya-Header-Github.png" alt="Adithya-Header-Github" border="0"></a>
                                         
- ###    Hi there 👋, I'm Adithya Shankaran
+ #   Hi there 👋, I'm Adithya Shankaran
 
 <!--
 **Adicr7fan/Adicr7fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
