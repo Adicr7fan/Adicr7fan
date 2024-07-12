@@ -56,7 +56,7 @@
 <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <h5 align="left">Backend:</h5>
 <a href="https://nodejs.org" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" title="Express.js"><img src="https://www.mementotech.in/assets/images/icons/express.png" alt="express" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" title="Express.js"><img src="https://img.icons8.com/office/40/express-js.png" alt="express" width="40" height="40"/></a>
 <a href="https://kafka.apache.org/" target="_blank" title="Apache Kafka"><img src="https://cdn.confluent.io/wp-content/uploads/kafka-icon-blue.jpg" alt="kafka" width="40" height="40"/></a>
 <h5 align="left">AI/ML:</h5>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas"><img src="https://i.imgur.com/8MVO0Gf.png" alt="pandas" width="40" height="40"/></a>
@@ -79,7 +79,7 @@
 <h5 align="left">Other:</h5>
 <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"><img src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" alt="bash" width="40" height="40"/></a></p>
+<a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"><img src="https://img.icons8.com/color/48/bash.png" alt="bash" width="40" height="40"/></a></p>
 <br>
 
 ## 📊 My Github Stats
